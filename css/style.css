@@ -1,0 +1,51 @@
+body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+
+/* Text/Title Design */ 
+h1 {
+   margin: 0 auto 0 auto;
+   font-family: 'Sacramento', cursive;
+}
+h2 {
+   font-family: 'Montserrat', sans-serif;
+}
+.pro {
+   font-family: 'Merriweather', serif;
+   text-decoration: underline;
+}
+
+/* Div Design */
+.Top-Container {
+   background-color: #3FA796;
+   position: relative;
+   padding-top: 100px;
+}
+.Middle-Container {
+   background-color: #F0EABE;
+   padding-top: 50px;
+}
+.Bottom-Container {
+   background-color: #3FA796;
+   position: relative;
+   padding: 100px;
+}
+
+
+/* Images Design */
+.top-cloud {
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+.bottom-cloud {
+   position: absolute;
+   left: 300px;
+   bottom: 320px;
+}
+.pictureprofile {
+   height: 160px;
+   width: 160px;
+}
